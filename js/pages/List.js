@@ -64,8 +64,8 @@ export default {
                         <h1 class="copy-name">  
                             {{ level.name }}
                         </h1>
-                        <Copy v-if="!copied" @click="copyURL('https://1dot0list.pages.dev/#/level/' + level.path); copied = true"></Copy>
-                        <Copied v-if="copied" @click="copyURL('https://1dot0list.pages.dev/#/level/' + level.path); copied = true"></Copied>
+                        <Copy v-if="!copied" @click="copyURL('https://drug-list.pages.dev/#/level/' + level.path); copied = true"></Copy>
+                        <Copied v-if="copied" @click="copyURL('https://drug-list.pages.dev/#/level/' + level.path); copied = true"></Copied>
                     </div>
                     <LevelAuthors :creators="level.creators" :verifier="level.verifier" :enjoyment="level.enjoyment"></LevelAuthors>
                     <div v-if="level.showcase" class="tabs">
