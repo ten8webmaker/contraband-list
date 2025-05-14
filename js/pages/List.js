@@ -159,7 +159,7 @@ export default {
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
                     <div class="og">
-                        <p class="type-label-md">Website layout from <a class="director" href="https://tsl.pages.dev/" target="_blank">The Shitty List</a> and  <a class="director" href="https://1dot0list.pages.dev/" target="_blank">The Layout List</a>.</p>
+                        <p class="type-label-md">Website layout from <a class="director" href="https://tsl.pages.dev/" target="_blank">The Shitty List</a> and  <a class="director" href="https://drug-list.pages.dev/" target="_blank">The Layout List</a>.</p>
                     </div>
                     <hr class="divider">
                     <template v-if="staff">
