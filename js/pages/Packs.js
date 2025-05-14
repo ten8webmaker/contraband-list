@@ -146,7 +146,7 @@ export default {
                     <h2>Records ({{ selectedPack.records.length }})</h2>
                     <div class="pack-records">
                         <p v-for="record in selectedPack.records">
-                            <a class="director" :href="'https://1dot0list.pages.dev/#/leaderboard/user/' + record.toLowerCase().replaceAll(' ', '_')">{{ record }}</a>
+                            <a class="director" :href="'https://drug-list.pages.dev/#/leaderboard/user/' + record.toLowerCase().replaceAll(' ', '_')">{{ record }}</a>
                         </p>
                     </div>
                 </div>
