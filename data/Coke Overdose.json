@@ -10,6 +10,13 @@
   	"gdLength": "0:34",
 	"creatorScore": 1.2,
   	"records": [
-		  
-	]
-}
+	    {
+      "user": "ten8mystery",
+      "link": "https://youtu.be/RrTBpA9m1vA",
+      "percent": 100,
+      "hz": 360,
+      "enjoyment": 5.4,
+      "mobile": false
+    }
+  ]
+}	
