@@ -10,6 +10,14 @@
   	"gdLength": "0:30",
 	"creatorScore": 6.7,
   	"records": [
-		  
-	]
+    },
+    {
+      "user": "DCV4",
+      "link": "https://youtu.be/lonr5sq-8pk",
+      "percent": 100,
+      "hz": 144,
+      "enjoyment": 6,
+      "mobile": true
+    }
+  ]
 }
