@@ -214,7 +214,7 @@ export default {
                             Using anything is allowed
                         </p>
                         <p>
-                            Even though the decoration and gameplay standard in this server is minimal, the standard still exists and levels that do not meet the standard will not be accepted.
+                            Even though the decoration and gameplay standard in this server is minimal, the standard still exists and levels that do not meet the standard will not be accepted. DO NOT FUCKING COPY
                         </p>
                     </div>
                     <hr class="divider">
