@@ -33,6 +33,31 @@
       "hz": 60,
       "enjoyment": 2,
       "mobile": true
+    },
+    {
+      "user": "Xanderfiles",
+      "link": "https://youtu.be/xIgt7fSLZG4",
+      "percent": 100,
+      "hz": 360,
+      "enjoyment": 6.5,
+      "mobile": false
+    },
+    {
+      "user": "PlaceK",
+      "link": "https://youtu.be/5h0WdI553B0",
+      "percent": 100,
+      "hz": 360,
+      "enjoyment": 5,
+      "mobile": true
+    },
+    {
+      "user": "The Lorax",
+      "link": "https://youtu.be/KZ8Ck-7Jhzc",
+      "percent": 100,
+      "hz": 360,
+      "enjoyment": 6,
+      "mobile": true
+
     }
   ]
 }
