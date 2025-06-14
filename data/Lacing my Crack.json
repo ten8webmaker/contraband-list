@@ -10,6 +10,13 @@
   	"gdLength": "0:31",
 	"creatorScore": 9,
   	"records": [
-
+		{
+	"user": "The Lorax",
+      "link": "https://youtu.be/z-QJ99PD5tM ",
+      "percent": 100,
+      "hz": 360,
+      "enjoyment": 10,
+      "mobile": false	
+		}
 	]
 }
