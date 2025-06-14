@@ -10,18 +10,5 @@
   	"gdLength": "1:03",
 	"creatorScore": 7,
   	"records": [
-		    "user": "Xanderfiles",
-      "link": "https://youtu.be/Nnq863Mfflo",
-      "percent": 100,
-      "hz": 360,
-      "enjoyment": 2.0,
-      "mobile": false,
-	],
-	[ "user": "PlaceK",
-      "link": "https://youtu.be/hz132C-vuS8",
-      "percent": 100,
-      "hz": 360,
-      "enjoyment": 5.0,
-      "mobile": false, 
 	],
 }
