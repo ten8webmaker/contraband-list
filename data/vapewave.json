@@ -34,6 +34,15 @@
       "hz": 360,
       "enjoyment": 3.0,
       "mobile": false  
+		},
+		{
+	"user": "zJoink",
+      "link": "https://www.youtube.com/watch?v=gzi3bYnrhQ4",
+      "percent": 100,
+      "hz": 360,
+      "enjoyment": "?",
+      "mobile": false  
+			
 		}
 	]
 }
