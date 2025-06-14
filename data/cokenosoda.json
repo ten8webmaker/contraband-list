@@ -10,6 +10,30 @@
   	"gdLength": "0:31",
 	"creatorScore": 3,
   	"records": [
-
+		{
+		"user": "Xanderfiles",
+	     "link": "https://youtu.be/DcJfJAARoWY",
+		"percent": 100,
+  	    "hz": 360,
+  	    "enjoyment": 6.0,
+  	    "mobile": false
+		},
+		{
+		"user": "PlaceK",
+	     "link": "https://www.youtube.com/watch?v=nmBuW6yZG6c",
+		"percent": 100,
+  	    "hz": 360,
+  	    "enjoyment": 6.0,
+  	    "mobile": false
+			
+		},
+		{
+		"user": "The Lorax",
+	     "link": "https://youtu.be/P-ChLdwV79w",
+		"percent": 100,
+  	    "hz": 360,
+  	    "enjoyment": 7.0,
+  	    "mobile": false
+		}
 	]
 }
