@@ -17,6 +17,23 @@
       "hz": 144,
       "enjoyment": 6,
       "mobile": false
-    }
+    },
+	{
+ 		"user": "Xanderfiles",
+      "link": "https://youtu.be/NC5WYf7gtPU",
+      "percent": 100,
+      "hz": 360,
+      "enjoyment": 7,
+      "mobile": false
+	},
+	{
+		"user": "PlaceK",
+      "link": "https://youtu.be/JwRWybXwUEk",
+      "percent": 100,
+      "hz": 360,
+      "enjoyment": 5.5,
+      "mobile": false
+
+	}
   ]
 }
