@@ -25,6 +25,39 @@
       "hz": 144,
       "enjoyment": 9,
       "mobile": false
+    },
+    {
+      "user": "zJOINK",
+      "link": "https://www.youtube.com/watch?v=ZLN6EgEJMtE",
+      "percent": 100,
+      "hz": 144,
+      "enjoyment": "?",
+      "mobile": false
+    },
+    {
+       "user": "XanderFiles",
+      "link": "https://youtu.be/W4_wm_vmK20",
+      "percent": 100,
+      "hz": 360,
+      "enjoyment": 2,
+      "mobile": false
+    },
+    {
+       "user": "PlaceK",
+      "link": "https://youtu.be/JwRWybXwUEk",
+      "percent": 100,
+      "hz": 360,
+      "enjoyment": 5.5,
+      "mobile": false
+    },
+    {
+         "user": "ItzPPAP",
+      "link": "https://youtu.be/JwRWybXwUEk",
+      "percent": 100,
+      "hz": 360,
+      "enjoyment": 5.5,
+      "mobile": false
+
     }
   ]
 }
