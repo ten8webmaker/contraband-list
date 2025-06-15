@@ -66,6 +66,15 @@
       "hz": 180,
       "enjoyment": 4,
       "mobile": false	
+		},
+		{
+      "user": "Lexiz",
+      "link": "https://www.youtube.com/watch?v=JpjR5oC3SLA",
+      "percent": 100,
+      "hz": 180,
+      "enjoyment": 6,
+      "mobile": false	
+			
 		}
   ]
 }
