@@ -15,9 +15,18 @@
 	     "link": "https://youtu.be/rFOAl757Aj4",
 		"percent": 100,
   	    "hz": 180,
-  	    "enjoyment": 6.0,
+  	    "enjoyment": 7.0,
   	    "mobile": false
 			  
-		  }
+		  },
+	{
+		"user": "Steeven",
+	     "link": "https://youtu.be/YPmmujS7OqA",
+		"percent": 100,
+  	    "hz": 360,
+  	    "enjoyment": 1,
+  	    "mobile": false
+		
+	}
 	]
 }
