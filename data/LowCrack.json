@@ -42,6 +42,15 @@
       "enjoyment": 6,
       "mobile": false
 			
+		},
+		{
+		"user": "Lexiz",
+      "link": "https://youtu.be/2xwW2GL_PEQ",
+      "percent": 100,
+      "hz": 180,
+      "enjoyment": 6,
+      "mobile": false
+			
 		}
 	]
 }
