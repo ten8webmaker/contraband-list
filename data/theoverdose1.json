@@ -50,6 +50,15 @@
       "enjoyment": 0,
       "mobile": false	
 			
+		},
+		{
+ 	"user": "Swipy",
+      "link": "https://www.youtube.com/watch?v=oUMhtB35dM0",
+      "percent": 100,
+      "hz": 180,
+      "enjoyment": 1.75,
+      "mobile": false	
+			
 		}
   ]
 }
