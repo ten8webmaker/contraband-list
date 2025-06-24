@@ -11,7 +11,12 @@
 	"creatorScore": 6,
   	"records": [
 		  {
-
+	"user": "Lexiz",
+	     "link": "https://youtu.be/rFOAl757Aj4",
+		"percent": 100,
+  	    "hz": 180,
+  	    "enjoyment": 6.0,
+  	    "mobile": false
 			  
 		  }
 	]
