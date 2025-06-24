@@ -59,6 +59,14 @@
       "enjoyment": 1.75,
       "mobile": false	
 			
+		},
+		{
+		"user": "zJoink",
+      "link": "https://youtu.be/tVyEDxmI8eQ",
+      "percent": 100,
+      "hz": 360,
+      "enjoyment": "?",
+      "mobile": false	
 		}
   ]
 }
