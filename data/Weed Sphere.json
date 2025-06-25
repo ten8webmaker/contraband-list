@@ -19,11 +19,29 @@
       "mobile": false	
 		},
 		{
-	  "user": "Weed Sphere",
+	  "user": "Steevem",
       "link": "https://youtu.be/4U0746JBc-0",
       "percent": 100,
       "hz": 360,
       "enjoyment": 8,
+      "mobile": false	
+			
+		},
+		{
+	  "user": "zJoink",
+      "link": "https://youtu.be/69PY2xBDt6I",
+      "percent": 100,
+      "hz": 360,
+      "enjoyment": 7.1,
+      "mobile": false	
+			
+		},
+		{
+	  "user": "Xanderfiles",
+      "link": "https://youtu.be/es2h68szCXI",
+      "percent": 100,
+      "hz": 360,
+      "enjoyment": 6,
       "mobile": false	
 			
 		}
