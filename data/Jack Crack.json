@@ -10,6 +10,13 @@
   	"gdLength": "0:31",
 	"creatorScore": 7,
   	"records": [
-
+	{
+		"user": "Steeven",
+      "link": "https://youtu.be/ilLfZTPMWtY",
+      "percent": 100,
+      "hz": 360,
+      "enjoyment": 5,
+      "mobile": false	
+	}
 	]
 }
