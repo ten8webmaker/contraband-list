@@ -11,12 +11,20 @@
 	"creatorScore": 7,
   	"records": [
 		{
-	  "user": "Steeven",
+	  "user": "Lexiz",
+      "link": "https://youtu.be/ZQaEBS-ok5s",
+      "percent": 100,
+      "hz": 180,
+      "enjoyment": 8,
+      "mobile": false	
+		},
+		{
+	  "user": "Weed Sphere",
       "link": "https://youtu.be/4U0746JBc-0",
       "percent": 100,
       "hz": 360,
       "enjoyment": 8,
-      "mobile": false
+      "mobile": false	
 			
 		}
 	]
