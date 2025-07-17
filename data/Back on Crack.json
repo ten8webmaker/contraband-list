@@ -10,57 +10,6 @@
   	"gdLength": "1:03",
 	"creatorScore": 7,
   	"records": [
-		{
-	"user": "PlaceK",
-      "link": "https://youtu.be/hz132C-vuS8",
-      "percent": 100,
-      "hz": 360,
-      "enjoyment": 5.0,
-      "mobile": false
-			
-		},
-		{
-	"user": "The Lorax",
-      "link": "https://youtu.be/euv-wvHqQpI",
-      "percent": 100,
-      "hz": 360,
-      "enjoyment": 8.0,
-      "mobile": false
-			
-		},
-		{
-	"user": "Xanderfiles",
-      "link": "https://youtu.be/euv-wvHqQpI",
-      "percent": 100,
-      "hz": 360,
-      "enjoyment": 8.0,
-      "mobile": false
-			
-		},
-		{
-	"user": "zJoink",
-      "link": "https://youtu.be/th8oVSp79kA",
-      "percent": 100,
-      "hz": 360,
-      "enjoyment": 2.2,
-      "mobile": false
-		},
-		{
-	"user": "Lexiz",
-      "link": "https://youtu.be/oxbvx9J3nL4",
-      "percent": 100,
-      "hz": 360,
-      "enjoyment": 9,
-      "mobile": false
-		},
-		{
-		"user": "Steeven",
-      "link": "https://youtu.be/meuCgfzHLIg",
-      "percent": 100,
-      "hz": 360,
-      "enjoyment": 6,
-      "mobile": false
-
 		}
 	
 	]
